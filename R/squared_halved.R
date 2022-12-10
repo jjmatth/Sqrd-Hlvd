@@ -1,3 +1,4 @@
+#' @export
 #' Create a function to return the squares of numbers
 #'
 #' Descriptions about the function
@@ -13,6 +14,7 @@ squared <- function(x) {
 }
 
 
+#' @export
 #' Create a function to return the halved value of numbers
 #'
 #' Descriptions about the function
